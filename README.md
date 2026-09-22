@@ -1,2 +1,4 @@
 # Student Management System
-Edited Again By Shirley Claire
+gitEdited Again By Shirley Claire
+Edited by rithwik
+Maintained by Yaramaneni

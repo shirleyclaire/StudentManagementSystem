@@ -1,3 +1,3 @@
 # Student Management System
-Maintained by Shirley
-Maintained by Rithwik
+Edited by rithwik
+Maintained by Yaramaneni
